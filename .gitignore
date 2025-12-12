@@ -1,0 +1,17 @@
+# build artifacts
+build/
+dist/
+osm_main
+osm_server
+osm_tests
+
+# editor files
+.vscode/
+
+# data (optional – remove if instructor allows)
+data/
+
+# misc
+*.o
+*.out
+
